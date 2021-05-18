@@ -44,7 +44,7 @@ function displayPhotos(){
   });
 }
 /* Unsplash API */
-const count = 3;
+const count = 30;
 const apiKey = 'uUbaA6Q7JBUn-9aeJgQDOTe88_xzyG2_H7SAjjpKi7k';
 const apiUrl = `https://api.unsplash.com/photos/random/?client_id=${apiKey}&count=${count}`;
 
